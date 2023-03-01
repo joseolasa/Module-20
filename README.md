@@ -9,6 +9,8 @@ In this module I used the Remix IDE, an online browser-based IDE for solidity.
 
 ## Functionality and Results
 
+The code for this contract is in the file "JointSavings.sol"
+
 This contract has the ability to deposit ETH into it. The image below reflects a deposit of 5 ETH.
 
 ![alt=“”](Results/sending%205%20eth.png)
